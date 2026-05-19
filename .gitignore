@@ -1,0 +1,5 @@
+# Ignorar el paquete compilado final
+*.rmskin
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
