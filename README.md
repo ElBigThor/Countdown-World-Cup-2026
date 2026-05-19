@@ -16,8 +16,8 @@ Taken from the project "Countdown in Lua" (https://visualskins.com/skin/countdow
 ## 🚀 Setup
 1. Go to the **Releases** section on the right of this repository.
 2. Download the executable file `.rmskin`.
-3. Double-click the downloaded file to install it using Rainmeter's native installer..
+3. Double-click the downloaded file to install it using Rainmeter's native installer.
 
 ## 🛠️ Technologies
-- **Rainmeter** (Skin Engine)
+- **Rainmeter** (Skin Engine: https://www.rainmeter.net/)
 - **Lua Scripting** (Clock logic)
